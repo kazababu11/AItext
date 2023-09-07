@@ -1,0 +1,3 @@
+#!/bin/sh
+echo "who are you "
+read devops eng
